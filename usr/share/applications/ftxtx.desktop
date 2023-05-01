@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=ftxtx 
+Exec=ftxtx.sh
+Icon=ftxtx
+Categories=Utility
+Comment=ftxtx 
+Comment[ru]=text-processing primary-buffer
+GenericName=ftxtx  
