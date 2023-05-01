@@ -1,0 +1,31 @@
+
+######       style 'blue_background' 
+
+
+###  style  'button'
+style 'window'
+
+{
+              bg[NORMAL] = { 0.0, 0.5, 0.2 }
+              fg[NORMAL] = { 1.0, 1.0, 1.0 }
+fg[ACTIVE] = {  1.0, 0.5, 0.7 }
+fg[PRELIGHT] = {  0.5, 0.0, 0.0 }
+bg[PRELIGHT] = {  0.0, 0.5, 0.0 }
+bg[SELECTED] = {  0.5, 0.5, 0.0 }
+fg[SELECTED] = {  0.5, 0.7, 0.0 }
+bg[ACTIVE] = {  0.0, 0.5, 0.0 }
+## bg_pixmap[PRELIGHT] = {  1.0, 0.0, 0.0 }
+}
+
+#####
+
+ ####     widget '*' style 'blue_background'
+      widget '*' style 'window'
+# widget_class "*" style 'window'
+
+#style 'toggle_button' = 'button'
+#{
+#fg[NORMAL] = {  0, 0, 0 }
+#fg[ACTIVE] = {  0, 0, 0 }
+#}
+#widget '*' style 'button'
