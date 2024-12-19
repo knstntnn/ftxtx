@@ -11,7 +11,7 @@ style 'window'
 fg[ACTIVE] = {  1.0, 0.5, 0.7 }
 fg[PRELIGHT] = {  0.5, 0.0, 0.0 }
 bg[PRELIGHT] = {  0.0, 0.5, 0.0 }
-bg[SELECTED] = {  0.5, 0.5, 0.0 }
+bg[SELECTED] = {  0.5, 1.0, 0.0 }
 fg[SELECTED] = {  0.5, 0.7, 0.0 }
 bg[ACTIVE] = {  0.0, 0.5, 0.0 }
 ## bg_pixmap[PRELIGHT] = {  1.0, 0.0, 0.0 }

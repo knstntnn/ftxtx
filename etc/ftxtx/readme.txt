@@ -9,7 +9,14 @@ GPL-v3
 /etc/ftxtx/ftxtx.Xd.rc 
 /etc/ftxtx/readme.txt
 
+/usr/share/pixmaps/ftxtx.xpm
+
 ------------------------
+
+~/.config/ftxtx/ftxtx.conf :
+
+
+
 
 
 
